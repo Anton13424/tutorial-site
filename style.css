@@ -1,0 +1,16 @@
+*{
+    font-family:  Helvetica, sans-serif;
+}
+body{
+    text-align: center;
+}
+.txt-crimson{
+    color: crimson;
+    
+}
+.title{
+    font-size: 50px;
+}
+.imp-inf{
+    color: #B3C8CF;
+}
